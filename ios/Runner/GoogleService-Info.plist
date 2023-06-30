@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>290137948559-r707mrdu37ae71oupkeugfdm416d8pvk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.290137948559-r707mrdu37ae71oupkeugfdm416d8pvk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>290137948559-9an8udu8c4900lvm50pv28chomipa4eg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZmafKa-DW7NC22E2ccUuoeSQNI9nsOXU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>290137948559</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kardusinfo.rickyMobile</string>
+	<key>PROJECT_ID</key>
+	<string>rickysmartphone-4504a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rickysmartphone-4504a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:290137948559:ios:408ccb26c9a8ee322b0bfa</string>
+</dict>
+</plist>

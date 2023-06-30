@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "290137948559",
+    "project_id": "rickysmartphone-4504a",
+    "storage_bucket": "rickysmartphone-4504a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290137948559:android:da4bbb89d3819eea2b0bfa",
+        "android_client_info": {
+          "package_name": "com.kardusinfo.ricky_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290137948559-9an8udu8c4900lvm50pv28chomipa4eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kardusinfo.ricky_mobile",
+            "certificate_hash": "e8afede96ccd09fa432083ddaa759a2fda795eaf"
+          }
+        },
+        {
+          "client_id": "290137948559-t565h1a2v5sk7m94ne41e392vd7fegd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAGe8kmPJK4HF3N-MdFY20VswlSQKp-00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290137948559-5fpb1602a9b6p6qr6l486htf2lk0vi72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290137948559-r707mrdu37ae71oupkeugfdm416d8pvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kardusinfo.rickyMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
